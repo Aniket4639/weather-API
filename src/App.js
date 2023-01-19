@@ -5,6 +5,7 @@ export const App = () => {
     return (
         <div class="form__title">
             <Temperature/>
+            Aniket!
         </div>
     )
 }
